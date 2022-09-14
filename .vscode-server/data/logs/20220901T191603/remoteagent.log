@@ -1,0 +1,4 @@
+[2022-09-01 19:16:03.831] [remoteagent] [info] Extension host agent started.
+[2022-09-01 19:16:04.317] [remoteagent] [info] [127.0.0.1][12c0c433][ManagementConnection] New connection established.
+[2022-09-01 19:16:04.543] [remoteagent] [info] [127.0.0.1][c54ec818][ExtensionHostConnection] New connection established.
+[2022-09-01 19:16:04.546] [remoteagent] [info] [127.0.0.1][c54ec818][ExtensionHostConnection] <3798> Launched Extension Host Process.

@@ -1,0 +1,6 @@
+{
+    "remote.SSH.remotePlatform": {
+        "10.50.0.24": "linux",
+        "20.112.101.211": "linux"
+    }
+}

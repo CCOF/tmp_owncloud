@@ -1,0 +1,1 @@
+owncloud-10.10.0,AGPL3,https://github.com/owncloud/core/archive/refs/tags/v10.10.0.zip

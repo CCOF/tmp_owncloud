@@ -1,0 +1,1 @@
+/bitnami/owncloud/config/config.php
